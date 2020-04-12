@@ -56,7 +56,7 @@ Other than these, as a part of my role as a university facilitator for the Explo
 
 *Date* - August 4th, 2019 
 
-*Resources* - [Youtube Video](https://www.youtube.com/watch?v=-nzRQWvQ9XA&feature=youtu.be)|
+*Resources* - [Youtube Video](https://www.youtube.com/watch?v=-nzRQWvQ9XA&feature=youtu.be)
 
 ## Data Science: Going beyond Scikit-Learn
 
