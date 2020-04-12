@@ -4,8 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-
-Ankita is a student of Statistics at St. Xavier's College, Kolkata, India, graduating in July, 2020.
-
-If not coding, she can be found reading books, mostly non-fiction or watching a thriller movie.
+Found reading a book if not anything else, Ankita is a fun-loving geek who spends most of her time either submerged in her laptop working on her projects or watching movies. She is a university facilitator for the esteemed Explore ML program by Google and regularly conducts sessions, online and offline, on Machine Learning and Data Science. Ankita loves interacting with people and knowing about their journey, sharing her experiences as well. A small town girl in the big city, she has happily fallen in love with the data maze that this world is.
 
