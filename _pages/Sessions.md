@@ -6,10 +6,15 @@ permalink: /sessions/
 
 The following is a list of all the events I had the opportunity to take a workshop on. The resources have also been included here. 
 
+
 **Data Science: Going beyond Scikit-Learn** 
+
   *Event* - Machine Learning with the Experts 
+  
   *Organisation* - Google Developers Group, Kolkata
+  
   *Date* - July 6th, 2019 
+  
   *Resources* - [Github repo](https://github.com/Anpr1211/EDA---Demo)|
   
 
