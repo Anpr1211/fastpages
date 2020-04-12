@@ -7,7 +7,7 @@ permalink: /sessions/
 The following is a list of all the events I had the opportunity to take a workshop on. The resources have also been included here. 
 
 
-**Data Science: Going beyond Scikit-Learn** 
+## Data Science: Going beyond Scikit-Learn
 
   *Event* - Machine Learning with the Experts 
   
