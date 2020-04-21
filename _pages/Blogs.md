@@ -3,6 +3,10 @@ layout: page
 title: Blogs
 permalink: /blogs/
 ---
+## No Fit like the RuleFit
+*A walk through Gradient Boosting and Lasso Regression for the RuleFit algorithm*
+
+Read it on [BeingDatum](https://beingdatum.com/no-fit-like-the-rulefit/).
 
 ## Interpret your Regression
 *A walk through Logistic Regression*
