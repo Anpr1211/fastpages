@@ -14,7 +14,9 @@ Other than these, as a part of my role as a university facilitator for the Explo
 
 *Organisation* - Google Developers Group, Hubli and Women Tech Makers, Hubli
 
-*Resources* - 
+*Date* - May 10th, 2020
+
+*Resources* - [YouTube Video](https://www.youtube.com/watch?v=7BNspPGhdJk&t=25s)
 
 ## Data Science - Online Mentor
 
