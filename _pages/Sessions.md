@@ -8,6 +8,24 @@ The following is a list of all the events I had the opportunity to take a worksh
 
 Other than these, as a part of my role as a university facilitator for the Explore ML program by Google, I have also conducted sessions at St. Xavier's College(Autonomous), Calcutta Institute of Engg. and Management and Kalyani Government Engg. College.
 
+## Data Analysis of India - COVID19
+
+*Event* - Data Analysis
+
+*Organisation* - Google Developers Group, Hubli and Women Tech Makers, Hubli
+
+*Resources* - 
+
+## Data Science - Online Mentor
+
+*Event* - Education Outreach Program
+
+*Organisation* - Girlscript Foundation
+
+*Date* - April 28th-May 3rd, 2020
+
+*Resources* - 
+
 ## Data Science - Online Mentor
 
 *Event* - COVID Coding Program
